@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "My-Javascript-Lab",
+			"path": "../My-Javascript-Lab"
+		},
+		{
+			"name": "Grading_System_JS",
+			"path": "../Grading_System_JS"
+		},
+		{
+			"name": "Calculator",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
